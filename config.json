@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvalidate",
+        "uuid": 21742380,
+        "checksum": "quhewo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
